@@ -1,0 +1,3 @@
+1.Proteus/hardware=arduino
+2.Labview=Phone Tester(View er kaj gula hobe)
+3.GPs/GSM=virtual comport
